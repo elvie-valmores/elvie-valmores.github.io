@@ -9,7 +9,7 @@ With a strong foundation in IT and a focus on secure computing, I am actively se
 ## Skills
 | Skill                                         | Associated Project                                  |
 |-----------------------------------------------|-----------------------------------------------------|
-| Network Topology Design                      | [Cybersecurity Home Lab - Part 1](https://google.com) |
+| Network Topology Design                      | [Cybersecurity Home Lab - Part 1](Cybersecurity-Home-Lab-Part-1-Network-Topology.md) |
 | Firewall and Network Security                | [Cybersecurity Home Lab - Part 2](https://google.com), [Part 4](https://google.com) |
 | Virtual Machine Setup and Administration     | [Cybersecurity Home Lab - Part 3](https://google.com), [Part 9](https://google.com) |
 | Malware Analysis                             | [Cybersecurity Home Lab - Part 8](https://google.com), [Part 11](https://google.com) |
