@@ -1,1 +1,20 @@
-title: Elvie's Portfolio
+title: "Elvie's Portfolio"
+
+# Use GitHub Flavored Markdown (GFM) to properly render tables
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+
+# Enable Jekyll Plugins (Optional, for better Markdown support)
+plugins:
+  - jekyll-commonmark
+  - jekyll-gist
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+commonmark:
+  extensions: ["table", "strikethrough", "autolink", "tasklist"]
