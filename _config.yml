@@ -5,7 +5,7 @@ description         : >-
                       security, compliance, and AI governance.
 baseurl             : ""
 url                 : "https://elvievalmores.com"
-repository          : elvie-valmores/elvie-valmores.github.io      # ← still needs your real GitHub username
+repository          : elvie-valmores/elvie-valmores.github.io
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false
 ### Plugins ###
