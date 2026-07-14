@@ -1,17 +1,24 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Cybersecurity Engineer Intern — AIT Engineering
+  from: 2025
+  to: Present
+  description: NIST 800-171 and CMMC Level 2 assessments across a multi-tenant client base. Build compliance automation and continuous monitoring in Microsoft 365 GCC and Azure Government. Serve as the bridge between control language and cloud implementation.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: M.S. Cybersecurity (Policy) — Georgia Tech
+  from: 2026
+  to: 2028
+  description: OMS Cybersecurity, policy track. Focused on AI governance, security policy, and the regulatory side of the work I do in practice.
+
+- title: B.S. Information Technology — University of Central Florida
+  from: 2024
+  to: 2026
+  description: 4.0 GPA. Hack@UCF, Knight Hacks, AI@UCF, Google Developer Student Club, ACM.
+
+- title: Information Technology Intern — Logic Controls
+  from: 2024
+  to: 2025
+  description: Configured and tested point-of-sale terminals and industrial computers. Deployed OS images, firmware, and software to proprietary hardware.
+
+- title: Information Technology Intern — Orange County Public Schools
+  from: 2023
+  to: 2023
+  description: Mass-imaged thousands of student devices with standardized security baselines. Handled secure decommissioning and district-wide hardware auditing.
